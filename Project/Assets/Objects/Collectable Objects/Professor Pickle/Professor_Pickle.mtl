@@ -1,0 +1,116 @@
+# 3ds Max Wavefront OBJ Exporter v0.97b - (c)2007 guruware
+# File Created: 28.03.2013 23:52:25
+
+newmtl npc_professor_skin_face
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka npc_professor_face01_dif.png
+	map_Kd npc_professor_face01_dif.png
+	map_Ks npc_professor_face01_spc.png
+	
+
+newmtl npc_professor_skin_hand
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka npc_professor_face01_dif.png
+	map_Kd npc_professor_face01_dif.png
+	map_Ks npc_professor_face01_spc.png
+	
+
+newmtl npc_professor_hair
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka npc_professor_hair01_dif.png
+	map_Kd npc_professor_hair01_dif.png
+	map_Ks npc_professor_hair01_spc.png
+	map_d npc_professor_hair01_dif_alpha.png
+	map_refl cmn_npc_cmn_hair01_ref.png
+
+newmtl npc_professor_cloth
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka npc_professor_body01_dif.png
+	map_Kd npc_professor_body01_dif.png
+	map_Ks npc_professor_body01_spc.png
+	
+
+newmtl npc_professor_shoe
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka npc_professor_body01_dif.png
+	map_Kd npc_professor_body01_dif.png
+	map_Ks npc_professor_body01_spc.png
+	
+
+newmtl npc_professor_teeth
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka cmn_npc_cmn_teeth01_dif.png
+	map_Kd cmn_npc_cmn_teeth01_dif.png
+	map_Ks cmn_npc_cmn_teeth01_spc.png
+	
+
+newmtl npc_professor_hair2
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka npc_professor_hair01_dif.png
+	map_Kd npc_professor_hair01_dif.png
+	map_Ks npc_professor_hair01_spc.png
+	map_d npc_professor_hair01_dif_alpha.png
+	map_refl cmn_npc_cmn_hair01_ref.png
